@@ -1,4 +1,4 @@
 
 void smy(){
-  printf("hello world rtk\n");
+  printf("hello world SMY\n");
 }

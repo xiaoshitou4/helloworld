@@ -1,0 +1,7 @@
+/.vs
+smygittest.sln
+/smygittest/Debug
+/Debug
+/smygittest/*.vcxproj
+/smygittest/*.filters
+/smygittest/*.user
